@@ -1,0 +1,22 @@
+.App{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    gap: 10vh;
+}
+.Card3{
+    display: none;
+}
+.btn{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    min-width: 90%;
+}
+input{
+    width: 100%;
+    height: 1.5em;
+}
